@@ -51,7 +51,7 @@ class VideoSysNode:
                                "THUDM/CogVideoX-5b",
                                "maxin-cn/Latte-1",
                                "OpenSora",
-                               "OpenSoraPlan"]),
+                               "OpenSoraPlan"],),
                 "num_frames":([65,221],{
                     "default":65
                 }),
