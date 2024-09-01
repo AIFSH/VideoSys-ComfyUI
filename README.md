@@ -2,7 +2,7 @@
 a custom node for [VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys)
 
 ## Run online
-- [镜像](https://www.xiangongyun.com/image/detail/2d27f239-c8f9-43f6-9156-fb1c06b6e3df)
+- [镜像](https://www.xiangongyun.com/image/detail/13706bf7-f3e6-4e29-bb97-c79405f5def4)
 - [教程]()
 
 ## Example
