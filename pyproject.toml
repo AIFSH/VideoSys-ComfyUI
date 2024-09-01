@@ -1,0 +1,15 @@
+[project]
+name = "videosys-comfyui"
+description = "NODES:TextNode, PreViewVideo, VideoSysNode."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["click", "colossalai", "contexttimer", "diffusers==0.30.0", "einops", "fabric", "ftfy", "imageio", "imageio-ffmpeg", "matplotlib", "ninja", "numpy", "omegaconf", "packaging", "psutil", "pydantic", "ray", "rich", "safetensors", "timm", "torch>=1.13", "tqdm", "transformers"]
+
+[project.urls]
+Repository = "https://github.com/AIFSH/VideoSys-ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "VideoSys-ComfyUI"
+Icon = ""
